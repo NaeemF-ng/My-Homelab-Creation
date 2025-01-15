@@ -14,3 +14,4 @@ Ubuntu VM Installation: I installed a Ubuntu virtual machine following a youtube
 Metasploitable VM Installation: I installed the metasploitable which was a better VM as it provided many more vulnerabilities to give me versatility when it came to gaining access to it.
 
 As a heads up, this is everything I have in my homelab as of right now. However, I will be including more VM's and additions throughout the course of my journey. 
+
